@@ -5,12 +5,13 @@ public class Hobbits {
         h[1] = new Hobbits();
         h[2] = new Hobbits();
         h[0] = new Hobbits();
-        int z = 0;
-        while (z < 4) {
+        int z = -1;
+        while (z < 2) {
             z = z + 1;
             h[z].name = "bilbo";
-            if (z == 1)
+            if (z == 1) {
                 h[z].name = "Frodo";
+            }
             if (z == 2) {
                 h[z].name = "am";
             }
