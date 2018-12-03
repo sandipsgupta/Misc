@@ -10,13 +10,13 @@ public class Hobbits {
             z = z + 1;
             h[z].name = "bilbo";
             if (z == 1) {
-                h[z].name = "Frodo";
+                h[z].name = "Frido";
             }
             if (z == 2) {
                 h[z].name = "am";
             }
             System.out.print(h[z].name + "\tis a");
-            System.out.println("good Hobbit name");
+            System.out.println("\tgood Hobbit name");
         }
     }
 }

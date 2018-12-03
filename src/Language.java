@@ -23,6 +23,7 @@ public class Language {
         Language java = new Language("Java");
 
         cpp.setName("C++");
+        java.setName("java");
 
         java.getName();
         cpp.getName();

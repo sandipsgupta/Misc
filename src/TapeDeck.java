@@ -3,8 +3,8 @@ public class TapeDeck {
     void playTape() {
         System.out.println("tape playing");
     }
-        void recordTape() {
-            System.out.println("tape recording");
+    void recordTape() {
+        System.out.println("tape recording");
         }
     }
 

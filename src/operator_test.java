@@ -1,7 +1,8 @@
 public class operator_test {
     public static void main(String[] args) {
-       // int s = 0;
-        String s = "0";
+       //int s = 0;
+       String s = "0";
+
         // int y = 0;
         /*for(int x = 1; x<10; x++){
             s = s+x;
